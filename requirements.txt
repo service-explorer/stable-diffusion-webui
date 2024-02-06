@@ -7,7 +7,7 @@ blendmodes
 clean-fid
 einops
 gfpgan
-gradio==3.34.0
+gradio==4.9.0
 inflection
 jsonmerge
 kornia
@@ -30,3 +30,4 @@ torch
 torchdiffeq
 torchsde
 transformers==4.30.0
+fastapi>=0.109.1 # not directly required, pinned by Snyk to avoid a vulnerability
