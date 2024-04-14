@@ -7,7 +7,7 @@ blendmodes
 clean-fid
 einops
 gfpgan
-gradio==3.34.0
+gradio==4.19.2
 inflection
 jsonmerge
 kornia
@@ -29,4 +29,4 @@ tomesd
 torch
 torchdiffeq
 torchsde
-transformers==4.30.0
+transformers==4.38.0
